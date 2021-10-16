@@ -937,3 +937,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.16-03.06.31:948][328]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.16-03.06.31:948][328]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
 [2021.10.16-03.06.31:948][328]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2021.10.16-03.17.45:891][502]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2021.10.16-03.17.52:312][221]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2021.10.16-03.18.00:055][124]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.16-03.18.01:532][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../LevelDesignProject/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.16-03.18.01:536][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.10.16-03.18.01:543][294]LogSavePackage: Moving '../../../../LevelDesignProject/Saved/NewMap851D54E54377BD910C21A3843F425FBB.tmp' to '../../../../LevelDesignProject/Content/NewMap.umap'
+[2021.10.16-03.18.01:549][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../LevelDesignProject/Content/NewMap_BuiltData.uasset" SILENT=true
+[2021.10.16-03.18.01:582][294]LogSavePackage: Moving '../../../../LevelDesignProject/Saved/NewMap_BuiltData981DB6BE48F3D7FAAEEF729693B92A7C.tmp' to '../../../../LevelDesignProject/Content/NewMap_BuiltData.uasset'
+[2021.10.16-03.18.01:589][294]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.16-03.18.01:589][294]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2021.10.16-03.18.01:589][294]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
